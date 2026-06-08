@@ -479,7 +479,7 @@ if analizar:
     else:
         st.write("No hay suficiente historial.")
 
-    st.caption("Herramienta educativa. No es asesoramiento financiero.")
+    st.caption("pimpoSoluciones.")
 
 with st.expander("Como abrirla desde el celular"):
     st.markdown("""
